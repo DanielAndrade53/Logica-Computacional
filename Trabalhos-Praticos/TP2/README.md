@@ -19,8 +19,8 @@ Pretende-se
     
 Problema 2
 
-Considere o problema descrito no documento +Lógica Computacional: Multiplicação de 
-Inteiros . Nesse documento usa-se um “Control Flow Automaton” como  modelo 
+Considere o problema descrito no documento [+Lógica Computacional: Multiplicação de 
+Inteiros]("https://paper.dropbox.com/doc/Logica-Computacional-Multiplicacao-de-Inteiros-n1G7pMihg2yJrMswfpBxr") . Nesse documento usa-se um “Control Flow Automaton” como  modelo 
 do programa imperativo que calcula a multiplicação de  inteiros positivos representados por 
 vetores de bits.
 
