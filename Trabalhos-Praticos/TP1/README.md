@@ -1,5 +1,7 @@
 # Trabalho Pratico 1
 
+Nota: B+
+
 Problema 1
 
 Pretende-se construir um horário semanal para o plano de reuniões de projeto de uma “StartUp” de acordo com as seguintes condições:
