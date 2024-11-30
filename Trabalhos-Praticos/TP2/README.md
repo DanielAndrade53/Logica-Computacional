@@ -4,8 +4,8 @@ Nota: A
 
 Problema 1
 
-Considere a descrição da cifra A5/1 que consta no documento +Lógica Computacional: a
-Cifra A5/1 . Informação complementar pode ser obtida no artigo da Wikipedia. 
+Considere a descrição da cifra A5/1 que consta no documento [+Lógica Computacional: a
+Cifra A5/1](https://paper.dropbox.com/doc/NwkyAeoKf0srn6MyQjWKP) . Informação complementar pode ser obtida no [artigo da Wikipedia](https://en.wikipedia.org/wiki/A5/1). 
 
 Pretende-se
   1. Definir e codificar, em Z3 e usando o tipo BitVec para modelar a informação, uma
@@ -20,7 +20,7 @@ Pretende-se
 Problema 2
 
 Considere o problema descrito no documento [+Lógica Computacional: Multiplicação de 
-Inteiros]("https://paper.dropbox.com/doc/Logica-Computacional-Multiplicacao-de-Inteiros-n1G7pMihg2yJrMswfpBxr") . Nesse documento usa-se um “Control Flow Automaton” como  modelo 
+Inteiros](https://paper.dropbox.com/doc/Logica-Computacional-Multiplicacao-de-Inteiros-n1G7pMihg2yJrMswfpBxr) . Nesse documento usa-se um “Control Flow Automaton” como  modelo 
 do programa imperativo que calcula a multiplicação de  inteiros positivos representados por 
 vetores de bits.
 
