@@ -1,5 +1,7 @@
 # Trabalho Pratico 2
 
+Nota Problema 1: A
+Nota Problema 2: A
 Nota: A
 
 Problema 1
