@@ -1,6 +1,8 @@
 # Trabalho Pratico 1
 
-Nota: B+
+Nota Problema 1: A
+Nota Problema 2: B
+Nota Final: B+
 
 Problema 1
 
