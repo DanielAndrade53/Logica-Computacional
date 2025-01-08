@@ -1,8 +1,11 @@
 # Trabalho Prático 3
 
 Nota Problema 1: A
+
 Nota Problema 2: B
+
 Nota Problema 3: A
+
 Nota: A-
 
 Problema 1
