@@ -3,7 +3,7 @@
 Nota Problema 1: A
 Nota Problema 2: B
 Nota Problema 3: A
-Nota: 
+Nota: A-
 
 Problema 1
 
