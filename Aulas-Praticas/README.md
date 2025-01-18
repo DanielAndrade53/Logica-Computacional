@@ -1,1 +1,3 @@
-**Aulas Práticas**: Ano 24/25
+# Aulas Práticas 
+
+**Ano**: 2024/25
